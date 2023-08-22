@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantvikaasa27&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantvikaasa27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikrantvikaasa27" alt="vikrantvikaasa27" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vikrant_08" target="blank"><img src="https://img.shields.io/twitter/follow/vikrant_08?logo=twitter&style=for-the-badge" alt="vikrant_08" /></a> </p>
-
 - 🔭 I’m currently Pursuing **B.Tech Artificial Intelligence and Data Science**
 
 - 🌱 I’m currently learning **NLP , ML, Reactjs , Backend**
