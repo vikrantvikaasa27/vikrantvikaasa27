@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Various Machine Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikrantvikaasa27](https://github.com/vikrantvikaasa27)
-
 - 💬 Ask me about **Machine Learning stuffs**
 
 - 📫 How to reach me **https://www.linkedin.com/in/vikrant-vikaasa-v-9954b3215/**
