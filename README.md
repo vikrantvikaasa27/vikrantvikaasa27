@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant Vikaasa.V</h1>
 <h3 align="center">I am a passionate and committed student with a profound interest in machine learning and its practical applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikrantvikaasa27&label=Profile%20views&color=0e75b6&style=flat" alt="vikrantvikaasa27" /> </p>
+
 
 - 🔭 I’m currently Pursuing **B.Tech Artificial Intelligence and Data Science**
 
